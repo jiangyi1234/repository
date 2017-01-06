@@ -1,2 +1,0 @@
-使用jxL和POI实现excel的读取和写出
-使用POI根据xml文件利用jdom解析来动态生成Excel模板
